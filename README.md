@@ -15,7 +15,7 @@ inspire students, help them innovate and let them integrate to build the next ge
 
 
 
-# Stock-Market-Prediction-using-Numerical-and-Textual-Analysis Task-7-TSF
+# Task 7 - TSF Stock-Market-Prediction-using-Numerical-and-Textual-Analysis 
 Task 7 - Stock Market Prediction using Numerical and Textual Analysis 
 Create a hybrid model for stock price/performance prediction
 using numerical analysis of historical stock prices, and sentimental analysis of
